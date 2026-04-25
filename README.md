@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <img height="200" src="https://media.tenor.com/5ADRm4HGBQwAAAAi/apu-apustaja-apu.gif"/>
 </div>  
 
