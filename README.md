@@ -1,3 +1,5 @@
+<div class="tenor-gif-embed" data-postid="16429361906474943756" data-share-method="host" data-aspect-ratio="1.37931" data-width="100%"><a href="https://tenor.com/view/apu-apustaja-apu-apuapustaja-aputheworld-cute-gif-16429361906474943756">Apu Apustaja Apuapustaja Sticker</a>from <a href="https://tenor.com/search/apu+apustaja-stickers">Apu Apustaja Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 # 💫 About Me:
 🛠️ Building cool stuff and learning every day<br><br>🎧 Lo-fi beats are my fuel for long coding sessions<br><br>🐧 Terminal lover and keyboard shortcut addict<br><br>🕹️ Probably gaming or sleeping if I’m not on VS Code
 
